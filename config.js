@@ -31,8 +31,7 @@ module.exports = {
       telegram: "onra87",
       twitter: "arn_aud",
       github: "Onra",
-      rss: "#",
-      vkontakte: "#"
+      rss: "#"
     }
   }
 };
